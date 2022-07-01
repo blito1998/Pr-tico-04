@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: gray;
+    
+}
+div{
+position:absolute;
+height: 120px;
+width: 120px;
+background-color: #000;
+
+}
+.seg{
+top: 0;
+margin-left: 126px;
+
+
+}
+.terc{
+top:0;
+margin-left: 252px;
+
+}
+.quar{
+    
+    margin-right:252px;
+}
+.qui{
+    bottom: 0;
+    margin-right: 126px;
+   
+
+}
+.sex{
+
+right: 0;
+
+
+}
+
+.line2{
+  margin-top: -60px;
+  top: 30%;
+
+    
+}
+.line3{
+    top:50%;
+    margin-top:-60px;
+   
+
+}
+.line4{
+    right: 0;
+    bottom: 30%;
+    margin-bottom: -60px;
+
+}
+.line5{
+    right: 0;
+    bottom: 0;
+}
